@@ -1,0 +1,13 @@
+.button-wide {
+  width: 100%;
+  max-width: 70px; /* Adjust the max-width as needed */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+body {
+  background-color: #343541;
+  color: white;
+  font-family: 'Pixel Emulator', sans-serif;
+}
