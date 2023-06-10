@@ -4,7 +4,7 @@ This application allows you to calibrate and control the vibration intensity of 
 
 ## Usage
 
-1. Open the `index.html` file in a web browser (or use this link https://zuuwee-1.github.io/controller-calibration/)
+1. Navigate to this link https://zuuwee-1.github.io/controller-calibration/ (Or open the `index.html` file in a web browser)
 3. Connect a gamepad/controller to your computer.
 4. If the gamepad/controller is not automatically detected, press a button on the controller.
 5. Once the gamepad is detected, you can calibrate the vibration settings:
